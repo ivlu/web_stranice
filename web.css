@@ -1,0 +1,97 @@
+body{
+    background-color: gainsboro;
+}
+
+#Container{
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    background-color: ghostwhite;
+}
+
+#Header{
+    background-color:white;
+    width: 40%;
+    height: 60px;
+    float: right;
+}
+
+#Header ul{
+    margin: 0;
+    padding: 0;  
+}
+#Header li{
+   list-style: none;
+    float: left;
+    display: block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    line-height: 55px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 17px;
+    margin-right: 6px;
+}
+#Header li a{
+    text-decoration: none;
+    color:white;
+}
+#Header li:Hover{
+    background-color: gainsboro;
+}
+
+#Menu{
+    background-color:white;
+    width: 80%;
+    height: 60px;
+    float: right;
+}
+
+#Menu ul{
+    margin: 0;
+    padding: 0;  
+}
+#Menu li{
+   list-style: none;
+    float: left;
+    display: block;
+    width: 100px;
+    height: 60px;
+    text-align: center;
+    line-height: 55px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 17px;
+    margin-right: 6px;
+}
+#Menu li a{
+    text-decoration: none;
+    color:white;
+}
+#Menu li:Hover{
+    background-color: gainsboro;
+}
+
+#tekst{
+    background-color: beige;
+    height: 600px;
+    width: auto;
+}
+
+#tekst_lijevo{
+    height: auto;
+    width: 33%;
+    float: left;
+    font-size: 14px;
+    color:dimgray
+}
+#tekst_sredina{
+    height: auto;
+    width: 33%;
+    float: left;
+}#tekst_desno{
+    height: auto;
+    width: 33%;
+    float: left;
+}

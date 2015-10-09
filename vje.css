@@ -1,0 +1,42 @@
+#Container{
+    width: 800px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 11px;
+}
+
+#Header{
+    height: 150px;
+    background-color: gainsboro;
+    
+}
+
+#Menu{
+    height: 60px;
+    background-color: gray;
+    
+}
+
+#Sidebar{
+    width: 150px;
+    height: 400px;
+    float: left;
+    background-color: greenyellow;
+    
+}
+
+#MainBody{
+    width: 650px;
+    height: 400px;
+    background-color: blue;
+    float: right;
+
+}
+
+#Footer{
+    height: 100px;
+    margin-bottom: 21px;
+    background-color: bisque;
+    clear: both;
+}
